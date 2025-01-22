@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Lothric Knight Sword",
+        "description": "A straight sword used by Lothric Knights, known for precision and thrusting attacks, making it reliable in combat.",
+        "image": "https://i.postimg.cc/5ydMC1WV/Lothric-Knight-Sword-2.png",
+        "requirements_effects": "Strength 12, Dexterity 16",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls III",
+        "dataBsTarget": "item1"
+    },
+    {
+        "id": 2,
+        "name": "Black Knight Greataxe",
+        "description": "A mighty greataxe wielded by Black Knights, forged in flames. Delivers powerful, crushing blows capable of breaking defenses.",
+        "image": "https://i.postimg.cc/ryxTLd5F/Black-Knight-Greataxe-30.png",
+        "requirements_effects": "Strength 30, Dexterity 12",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item2"
+    },
+    {
+        "id": 3,
+        "name": "Onikiri and Ubadachi",
+        "description": "Onikiri and Ubadachi are twin katanas, with a nice lightweight and elegant structure, designed for fast, agile, and precise attacks.",
+        "image": "https://i.postimg.cc/jSkmfKyF/Onikiri-and-Ubadachi-1.png",
+        "requirements_effects": "Strength 16, Intelligence 24",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls III",
+        "dataBsTarget": "item3"
+    },
+    {
+        "id": 4,
+        "name": "Dragon Slayer Spear",
+        "description": "Weapon wielded by Ornstein, infused with lightning. Known for its ability to pierce through enemies with precise thrusts.",
+        "image": "https://i.postimg.cc/RFnBhh8d/Dragonslayer-Spear-29.png",
+        "requirements_effects": "Strength 20, Dexterity 18, Faith 12",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item4"
+    },
+    {
+        "id": 5,
+        "name": "Fume Ultra Greatsword",
+        "description": "Ultra greatsword wielded by Tsorig, extremely heavy. Requires a lot of strength but delivers devastating strikes.",
+        "image": "https://i.postimg.cc/90dHPScq/Fume-Ultra-Greatsword-29.png",
+        "requirements_effects": "Strength 50",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls III",
+        "dataBsTarget": "item5"
+    },
+    {
+        "id": 6,
+        "name": "Ring of Favor",
+        "description": "A ring that boosts HP, stamina, and maximum equip load. A symbol of favor and protection.",
+        "image": "https://i.postimg.cc/Zq77HSpD/Ring-of-Favor.png",
+        "requirements_effects": "Increases HP, Stamina, and Equip Load",
+        "category": "Ring",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item6"
+    },
+    {
+        "id": 7,
+        "name": "Havel's Ring",
+        "description": "A ring that greatly increases maximum equip load. Belonged to Havel the Rock, massive strength and endurance.",
+        "image": "https://i.postimg.cc/q7MD2Rh3/Havel28-DSIII.png",
+        "requirements_effects": "Increases Equip Load",
+        "category": "Ring",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item7"
+    },
+    {
+        "id": 8,
+        "name": "Chloranthy Ring",
+        "description": "A ring associated with the Green Blossom. Increases stamina recovery speed.",
+        "image": "https://i.postimg.cc/2SxXqv6Y/Chloranthy-Ring-30.png",
+        "requirements_effects": "Increases Stamina Recovery Speed",
+        "category": "Ring",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item8"
+    },
+    {
+        "id": 10,
+        "name": "Estus Ring",
+        "description": "A ring that increases the amount of HP restored by Estus flasks.",
+        "image": "https://i.postimg.cc/TYgs6Bvp/Estus-Ring.png",
+        "requirements_effects": "Increases Estus Flask Healing",
+        "category": "Ring",
+        "gameAppear": "Dark Souls III",
+        "dataBsTarget": "item10"
+    },
+    {
+        "id": 19,
+        "name": "Ring of the Evil Eye",
+        "description": "A ring that allows you to regain HP with each enemy defeated, aiding in survival during battle.",
+        "image": "https://i.postimg.cc/jdzDtPz4/Ring-of-the-Evil-Eye-29-removebg-preview.png",
+        "requirements_effects": "Restores HP from Enemies",
+        "category": "Ring",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item19"
+    },
+    {
+        "id": 20,
+        "name": "Darkmoon Seance Ring",
+        "description": "A ring tied to the Darkmoon covenant, allowing you to access the Darkmoon Tomb and certain secrets.",
+        "image": "https://i.postimg.cc/HLSJFmQG/Darkmoon-Ring-removebg-preview.png",
+        "requirements_effects": "Access to Darkmoon Tomb",
+        "category": "Ring",
+        "gameAppear": "Dark Souls I",
+        "dataBsTarget": "item20"
+    },
+    {
+        "id": 22,
+        "name": "Sellsword Twinblades",
+        "description": "Twin blades known for their fast and effective slashing attacks, often wielded by agile fighters.",
+        "image": "https://i.postimg.cc/sx5gfCZg/Sellsword-Twinblades-removebg-preview.png",
+        "requirements_effects": "Strength 16, Dexterity 18",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls III",
+        "dataBsTarget": "item22"
+    },
+    {
+        "id": 23,
+        "name": "Great Club",
+        "description": "A large club that delivers massive damage with powerful, slow swings that crush opponents effectively.",
+        "image": "https://i.postimg.cc/CLyR3mfK/Great-Club-29-removebg-preview.png",
+        "requirements_effects": "Strength 50",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls I, Dark Souls III",
+        "dataBsTarget": "item23"
+    },
+    {
+        "id": 24,
+        "name": "Washing Pole",
+        "description": "A katana known for its long reach and ability to deal swift, precise strikes at range.",
+        "image": "https://i.postimg.cc/C13KVx52/Washing-Pole-29-removebg-preview-1.png",
+        "requirements_effects": "Strength 14, Dexterity 18",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls I",
+        "dataBsTarget": "item24"
+    },
+    {
+        "id": 25,
+        "name": "Star of the morning",
+        "description": "A weapon known for its medium reach and ability to deal blood damage, precise strikes at range short.",
+        "image": "https://i.postimg.cc/pLSbS1pG/Estrella-de-la-ma28-DSIII.webp",
+        "requirements_effects": "Strength 12, Dexterity 12",
+        "category": "Weapon",
+        "gameAppear": "Dark Souls I",
+        "dataBsTarget": "item25"
+    }
+]

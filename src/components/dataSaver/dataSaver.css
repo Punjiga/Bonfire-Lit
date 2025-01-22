@@ -1,0 +1,10 @@
+@media screen and (max-width: 425px ) {
+    h2 {
+        font-size: 32px !important;
+    }
+}
+@media screen and (max-width: 320px ) {
+    h2 {
+        font-size: 28px !important; 
+    }
+}
