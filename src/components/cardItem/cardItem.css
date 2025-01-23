@@ -96,7 +96,7 @@ ul li{
         left: 150px;
     }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 386px) {
     .modal,  .modal-title{
         transform: scale(.7) !important;
     }
@@ -108,7 +108,7 @@ ul li{
         width: 400px;
     }
 }
-@media screen and (max-width: 321px ) {
+@media screen and (max-width: 351px ) {
     .cardStyles{
         transform: scale(.7);
     }
