@@ -75,21 +75,51 @@ ul li{
 .btn-close{
     background-color: var(--Color-texts-30) !important;
 }
+@media screen and (max-width: 768px) {
+    .modal, .modal-content{
+        transform: scale(.8) !important;
+    }
+}
 /* Media querrys */
-@media screen and (max-width: 425px ) {
+@media screen and (max-width: 426px ) {
     .cardStyles{
         transform: scale(.8);
     }
     .cardStyles:hover{
         transform: scale(.9);
     }
+    .modal, .modal-content, .modal-body, .modal-title{
+        transform: scale(.7) !important;
+    }
+    h4{
+        position: absolute;
+        left: 150px;
+    }
 }
-@media screen and (max-width: 320px ) {
+@media screen and (max-width: 376px) {
+    .modal,  .modal-title{
+        transform: scale(.7) !important;
+    }
+    h4{
+        position: absolute;
+        left: 200px;
+    }
+    ul{
+        width: 400px;
+    }
+}
+@media screen and (max-width: 321px ) {
     .cardStyles{
         transform: scale(.7);
     }
     .cardStyles:hover{
         transform: scale(.8);
+    }
+    ul{
+        width: 320px;
+    }
+    ul li{
+        font-size: 1.2rem !important;
     }
 }
 
